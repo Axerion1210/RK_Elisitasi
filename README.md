@@ -10,7 +10,7 @@ Anggota Kelompok :
   Octavianus Giovanni       (05111740000113)
 ```
 
-Peran dan pembagian tugas berada pada dokumen [job desk](/)  
+Peran dan pembagian tugas berada pada dokumen [job desk](Job%20Desk%20Kelompok%2011%20-%20Rekayasa%20Kebutuhan%20C.docx)  
 Berikut merupakan dokumen dan deliverables yang telah kami buat dari analisa kebutuhan sampai prioritisasi kebutuhan:
 #### Elisitasi
 Kelompok kami memilih melakukan elisitasi menggunakan metode wawancara dan kuesioner. Beberapa deliverables yang dihasilkan adalah sebagai berikut:  
